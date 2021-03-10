@@ -1,0 +1,8 @@
+__pycache__/
+
+*.py[cod]
+
+*$py.class
+geckodriver.log
+.google-cookie
+.vscode

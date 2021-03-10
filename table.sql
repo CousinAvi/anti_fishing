@@ -1,0 +1,1 @@
+create table final_table ( ident VARCHAR(200), domen VARCHAR(200), list_domen VARCHAR(200))
